@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281901800835",
+    "project_id": "flash-chat-cacdd",
+    "storage_bucket": "flash-chat-cacdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281901800835:android:6bdf2bdac899373732eab6",
+        "android_client_info": {
+          "package_name": "co.AshBatman.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281901800835-sc8ihvvhqdkgipqt214kgonpd0sqa8r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiZP9ci5FSS0kgNfn-NUZ0kW8KiOU9Vso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281901800835-sc8ihvvhqdkgipqt214kgonpd0sqa8r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
